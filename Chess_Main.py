@@ -1,4 +1,5 @@
 
+!pip install pygame
 # importing required librarys
 import pygame
 import chess
